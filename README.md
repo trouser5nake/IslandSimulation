@@ -9,15 +9,15 @@ reproduce (if there is a pair in their location),
 starve to death or be eaten.
 
 Mandatory part of the task:
-Hierarchy of Animals (OOP)
-Animal behavior
-Multithreading
-Statistics on the state of the island on each clock cycle (in the console)
+Hierarchy of Animals (OOP),
+Animal behavior,
+Multithreading,
+Statistics on the state of the island on each clock cycle (in the console).
 
 When creating the program, the following were used:
-abstract classes
-interfaces
-annotations
-enums
-factory pattern
-multithreading
+abstract classes,
+interfaces,
+annotations,
+enums,
+factory pattern,
+multithreading.

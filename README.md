@@ -1,6 +1,6 @@
 # IslandSimulation
 
-simulator of life on an island with animals and plants
+Simulator of life on an island with animals and plants
 
 The task is to program an island model with variable parameters consisting of an array of locations (for example, 100x20 cells). The locations will be filled with vegetation and animals. Animals can:
 eat plants and/or other animals (if there is suitable food in their location),
